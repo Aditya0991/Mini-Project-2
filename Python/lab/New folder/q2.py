@@ -1,0 +1,5 @@
+data = input().split('-')
+print(data)
+print("Alphabeticaly Sorted list - ")
+data.sort()
+print(data)

@@ -1,0 +1,8 @@
+show databases;
+create database [Adityadb];
+use [db_name];
+
+create table [Adityadb] (col1 ,col2 ,col3...);
+
+show tables;
+desc[tb_name];

@@ -1,0 +1,13 @@
+import numpy as np
+r , c =map(int,input().split())
+lst1 = list(map(int,input().split()))
+lst2 = list(map(int,input().split()))
+arr1 = np.array(lst1).reshape(r,c)
+arr2 = np.array(lst2).reshape(r,c)
+print('Array 1:')
+print(arr1)
+print('Array 2:')
+print(arr2)
+print('sum of array1 and array2:')
+sum = np.add(arr1,arr2)
+print(sum)

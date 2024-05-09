@@ -1,0 +1,10 @@
+a=int(input("enter the number 1:"))
+b=int(input("enter the number 2:"))
+c=int(input("enter the number 3:"))
+d=int(input("enter the number 4:"))
+l=[a,b,c,d]
+t=(a,b,c,d)
+print(l)
+print(type(l))
+print(t)
+print(type(t))

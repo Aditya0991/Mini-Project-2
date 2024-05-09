@@ -1,0 +1,7 @@
+This is a normal text file.
+And we are trying to read it
+with the help of file handling in python.
+ASUS Laptops are the best
+i
+will master it Good Morning
+Good Morning
